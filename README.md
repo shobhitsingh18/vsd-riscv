@@ -5,7 +5,7 @@ The program is based on the RISC-V architecture and uses open-source tools to te
 ##  Basic Details
 
 **Name:** Shobhit Singh
-**College:** CV Raman Global University  
+**College:** CV Raman Global University
 **Email ID:** singhshobhit2020@gmail.com  
 **GitHub Profile:** shobhitsingh18
 ----------------------------------------------------------------------------------------------------------------
